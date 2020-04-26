@@ -1,5 +1,6 @@
 # Project-Particle-Sharpness-Analysis-In-Python
 Project: Particle Sharpness Analysis In Python
+
 Developed a methodology to quantitatively and objectively define particle sharpness with the range of 0 to 1
 
 Applied data analysis skills in python language for image processing with modules: OpenCV, Pillow(PIL), Numpy, Matplotlib, and used them to crop images, to invert images color, and to detect particle edges
